@@ -10,6 +10,9 @@ body {
   padding: 0;
   box-sizing: border-box;
   background: #fff;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-left: 2rem;
 }
 
 a {
